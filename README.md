@@ -16,7 +16,7 @@
 ## 🚀 在线使用
 
 访问 GitHub Pages 地址即可直接使用：
-**[https://your-username.github.io/poster-merge-website](https://your-username.github.io/poster-merge-website)**
+https://lucky666666-wq.github.io/poster-merge-website/
 
 ## 🎯 使用方法
 
